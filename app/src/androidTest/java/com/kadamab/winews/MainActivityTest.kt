@@ -56,7 +56,7 @@ class MainActivityTest : TestCase() {
 
     private fun getRVcount(): Int {
         val recyclerView =
-            activityActivityTestRule.getActivity().findViewById(R.id.) as RecyclerView
+            activityActivityTestRule.getActivity().findViewById(R.id.recyclerView) as RecyclerView
         return recyclerView.adapter!!.itemCount
     }
 }
