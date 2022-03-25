@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WiNews</string>
+    <string name="no_network">Please check internet connection</string>
+    <string name="action_ok">Ok</string>
 </resources>

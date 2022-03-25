@@ -1,4 +1,4 @@
-package com.kadamab.winews.metwork
+package com.kadamab.winews.network
 
 import com.kadamab.winews.model.NewsResponse
 import retrofit2.http.GET

@@ -2,7 +2,7 @@ package com.kadamab.winews.viewModel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.kadamab.winews.metwork.ApiHelper
+import com.kadamab.winews.network.ApiHelper
 import com.kadamab.winews.repository.MainRepository
 
 /*

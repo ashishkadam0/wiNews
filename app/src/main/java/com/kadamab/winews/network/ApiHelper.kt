@@ -1,5 +1,5 @@
 
-package com.kadamab.winews.metwork
+package com.kadamab.winews.network
 
 class ApiHelper(private val apiService: ApiService) {
    // get News dfrom ApiService
